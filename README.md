@@ -1,5 +1,8 @@
 # bsit-2e-g2
 Shuriten
+
+Instructions type cd shuriten > php artisan serve
+
 Members:
 James Francies Gamis
 Michael Villegas
