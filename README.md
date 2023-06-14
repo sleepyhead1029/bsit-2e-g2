@@ -1,7 +1,7 @@
 # bsit-2e-g2
 Shuriten
 
-Instructions type cd shuriten > php artisan serve
+Instructions type cd shuriten > php artisan migrate > php artisan serve
 
 Members:
 James Francies Gamis
