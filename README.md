@@ -8,3 +8,5 @@ James Francies Gamis
 Michael Villegas
 Charles Cedrick Catipan
 Listerio**
+
+**removed due to non compliance
