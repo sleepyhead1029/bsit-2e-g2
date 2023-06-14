@@ -12,7 +12,7 @@ class ProductController extends Controller
      */
     public function index(Request $request)
     {
-        $data['title'] = 'Products';
+        $data['title'] = 'Shuriten';
         $data['q'] = $request->get('q');
         $data['products'] = Product::where('product_name','like','%'.$data['q'].'%')->get();
         return view('product.index', $data);
